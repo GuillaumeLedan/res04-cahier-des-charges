@@ -1,11 +1,11 @@
 - Accueil (/)
-  - La recette de la semaine
+  - La recette de la semaine (/semaine)
     - Recette 
-  - Les recettes populaires
+  - Les recettes populaires (/populaires)
     - Recette 1
     - Recette 2
     - Recette 3
-  - Recettes récentes
+  - Recettes récentes (/recentes)
     - Recette A
     - Recette B
     - Recette C
@@ -23,12 +23,17 @@
 
   - Se connecter (/connexion)
 
-   
   - S'inscrire (/inscription)
-
   
 
-Explication de l'arborescence avec les routes :
+  
+  - Contact (/contact)
+  
+  - Condition général d'utlisation (/CGU)
+  
+  - Mention légale (/mention-legale)
+  
+
 
 La page d'accueil (/) affiche directement "La recette de la semaine", "Les recettes populaires" et "Les recettes récentes"
 
@@ -54,6 +59,11 @@ La page "Se connecter" (/connexion) permet aux utilisateurs de se connecter à l
 
 La page "S'inscrire" (/inscription) offre un formulaire d'inscription pour les nouveaux utilisateurs qui souhaitent créer un compte sur le site.
 
+La page contact (/contact) offr un formulaire de contact pour que les utilisateurs puissent soumettre un probleme, apporter l'ajout d'une recette, etc.
+
+La page Condition général d'utlisation (/CGU) offre un document juridique qui établit les règles et les termes auxquels les utilisateurs doivent se conformer lorsqu'ils utilisent un site web
+
+La page mention légale (/mention-legale) offre un document juridique qui informe les utilisateurs sur l'identité du propriétaire ou de l'exploitant du site web.
 
   
 

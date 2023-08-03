@@ -2,7 +2,7 @@ Recherche avancée
 
 Sous-fonctionnalités :
 
-- Mise en place d'un moteur de recherche avancé permettant aux utilisateurs de filtrer les recettes en fonction de leurs préférences (pays, région, ingrédients, types de plats, etc.).
+- Mise en place d'un moteur de recherche avancé permettant aux utilisateurs de filtrer les recettes en fonction de leurs préférences (pays, ingrédients, types de plats, etc.).
 
 
 Contraintes :

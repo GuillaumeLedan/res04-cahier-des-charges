@@ -4,7 +4,7 @@ Sous-fonctionnalités :
 
 - Section de commentaires pour permettre aux utilisateurs de partager leurs expériences de cuisine et d'échanger des conseils.
 
-- Possibilité pour les utilisateurs de noter et de commenter les recettes.
+- Possibilité pour les utilisateurs de liker et de commenter les recettes.
 
 - Système de partage sur les réseaux sociaux pour permettre aux utilisateurs de partager leurs recettes et astuces préférées avec leur réseau.
 
