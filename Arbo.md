@@ -9,33 +9,34 @@
     - Recette A
     - Recette B
     - Recette C
-  - Recherche
-  - 
+ 
+
   - S'inscrire à la newsletter (/newsletter)
-  - 
+
+   
   - Mon profil (/profil)
     - Mes recettes favorites (/profil/favoris)
     - Mes commentaires (/profil/commentaires)
     - Paramètres du compte (/profil/parametres)
       - Préférences d'interface (/profil/parametres/preferences)
 
+
   - Se connecter (/connexion)
-  - 
+
+   
   - S'inscrire (/inscription)
 
   
 
 Explication de l'arborescence avec les routes :
 
-La page d'accueil (/) affiche directement "La recette de la semaine", "Les recettes populaires" et "Les recettes récentes", ainsi que la barre de recherche à côté du menu en haut du site.
+La page d'accueil (/) affiche directement "La recette de la semaine", "Les recettes populaires" et "Les recettes récentes"
 
 La section "La recette de la semaine" peut afficher la recette mise en avant pour la semaine avec un lien vers la page dédiée à cette recette.
 
 La section "Les recettes populaires" affiche trois recettes populaires mises en avant avec des liens vers les pages dédiées à ces recettes.
 
 La section "Recettes récentes" affiche une liste de recettes récemment ajoutées avec des liens vers les pages dédiées à ces recettes.
-
-La barre de recherche en haut du site permet aux utilisateurs de rechercher des recettes en fonction de leurs préférences, de leurs restrictions alimentaires ou des ingrédients disponibles.
 
 La section "S'inscrire à la newsletter" (/newsletter) offre un formulaire pour s'abonner à la newsletter du site.
 
